@@ -1,7 +1,4 @@
 {
     "name": "infohamster/tke",
     "description": "A short description of what your package does",
-    "require": {
-        "php": "^7.0"
-    }
 }
