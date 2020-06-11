@@ -2,3 +2,20 @@
     "name": "infohamster/tke",
     "description": "A short description of what your package does"
 }
+{
+    "name": "infohamster/tke",
+    "description": "Framwork foo",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Foo bar",
+            "email": "foo@bar.baz"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "infohamster/tke": "*"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+ }
